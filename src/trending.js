@@ -146,56 +146,112 @@ const Trending = [
         ]
       },
       {
-        slug: "mobile-legends-b",
-        title: "Mobile Legends: B",
-        img: "https://play-lh.googleusercontent.com/49I7uP9_YrOtSlZFTo3rr4B3ZyTnVjDcI3RmRR0sm3BO8R8dg-bxQZvPzirTuLyOeNs",
-        price: [
-          {
-            amount: "💎14",
-            prices: "Rp.4.868",
-          },
-          {
-            amount: "💎28",
-            prices: "Rp.8.778",
-          },
-          {
-            amount: "💎42",
-            prices: "Rp.11.700",
-          },
-          {
-            amount: "💎56",
-            prices: "Rp.14.570",
-          },
-          {
-            amount: "💎70",
-            prices: "Rp.17.974",
-          },
-          {
-            amount: "💎100",
-            prices: "Rp.25.289",
-          },
-          {
-            amount: "💎114",
-            prices: "Rp.28.888",
-          },
-          {
-            amount: "💎140",
-            prices: "Rp.34.095",
-          },
-          {
-            amount: "💎284",
-            prices: "Rp.67.000",
-          },
-          {
-            amount: "💎370",
-            prices: "Rp.85.628",
-          },
-          {
-            amount: "💎568",
-            prices: "Rp.130.382",
-          },
-        ]
+    slug: "pubg-mobile-a",
+    title: "PUBG Mobile: A",
+    img: "https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg",
+    price: [
+      {
+        amount: "131 UC",
+        prices: "Rp.23.806",
       },
+      {
+        amount: "221 UC",
+        prices: "Rp.39.685",
+      },
+      {
+        amount: "263 UC",
+        prices: "Rp.47.050",
+      },
+      {
+        amount: "340 UC",
+        prices: "Rp.67.005",
+      },
+      {
+        amount: "525 UC",
+        prices: "Rp.90.100",
+      },
+      {
+        amount: "770 UC",
+        prices: "Rp.125.368",
+      },
+      {
+        amount: "788 UC",
+        prices: "Rp.135.150",
+      },
+      {
+        amount: "1050 UC",
+        prices: "Rp.180.200",
+      },
+      {
+        amount: "1375 UC",
+        prices: "Rp.225.250",
+      },
+      {
+        amount: "1638 UC",
+        prices: "Rp.269.299",
+      },
+      {
+        amount: "1900 UC",
+        prices: "Rp.213.350",
+      },
+      {
+        amount: "2013 UC",
+        prices: "Rp.311.047",
+      },
+      {
+        amount: "2163 UC",
+        prices: "Rp.357.399",
+      },
+      {
+        amount: "2425 UC",
+        prices: "Rp.401.450",
+      },
+      {
+        amount: "2875 UC",
+        prices: "Rp.445.499",
+      },
+      {
+        amount: "3138 UC",
+        prices: "Rp.490.549",
+      },
+      {
+        amount: "3400 UC",
+        prices: "Rp.534.599",
+      },
+      {
+        amount: "3925 UC",
+        prices: "Rp.622.698",
+      },
+      {
+        amount: "4200 UC",
+        prices: "Rp.618.092",
+      },
+      {
+        amount: "5038 UC",
+        prices: "Rp.798.898",
+      },
+      {
+        amount: "6000 UC",
+        prices: "Rp.888.998",
+      },
+      {
+        amount: "7050 UC",
+        prices: "Rp.1.067.197",
+      },
+      {
+        amount: "7575 UC",
+        prices: "Rp.1.155.297",
+      },
+      {
+        amount: "8750 UC",
+        prices: "Rp.1.234.056",
+      },
+      {
+        amount: "9375 UC",
+        prices: "Rp.1.332.497",
+      },
+    ],
+  },
       {
         slug: "free-fire",
         title: "Free Fire",
