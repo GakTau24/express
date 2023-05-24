@@ -58,7 +58,7 @@ const Apps = [
             prices: "Rp.30.000"
           },
           { 
-            amount: "Pro Desainer [Lifetime] [Garansi 12 Bulan]",
+            amount: "Pro Desainer 1 Tahun [Garansi 12 Bulan]",
             prices: "Rp.30.000"
           },
         ]
