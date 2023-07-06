@@ -339,6 +339,61 @@ const Trending = [
           },
         ],
       },
+     {
+        slug: "garena-undawn",
+        title: "Garena Undawn",
+        img: "https://akcdn.detik.net.id/community/media/visual/2021/04/05/garena-akan-merilis-undawn-game-open-world-survival-shooter-untuk-pemain-di-asia-tenggara-dan-sekitarnya-2_43.jpeg?w=250&q=",
+        price: [
+          {
+            amount: "80 RC",
+            prices: "Rp.14.333",
+          },
+          {
+            amount: "250 RC",
+            prices: "Rp.39.998",
+          },
+          {
+            amount: "450 RC",
+            prices: "Rp.65.664",
+          },
+          {
+            amount: "920 RC",
+            prices: "Rp.130.200",
+          },
+          {
+            amount: "1850 RC",
+            prices: "Rp.259.000",
+          },
+          {
+            amount: "2800 RC",
+            prices: "Rp.387.800",
+          },
+          {
+            amount: "4750 RC",
+            prices: "Rp.645.500",
+          },
+          {
+            amount: "9600 RC",
+            prices: "Rp.1.289.500",
+          },
+          {
+            amount: "Weekly Card",
+            prices: "Rp.26.467",
+          },
+          {
+            amount: "Monthly Card",
+            prices: "Rp.42.855",
+          },
+          {
+            amount: "Growht Fund (REBATE)",
+            prices: "Rp.84.367",
+          },
+          {
+            amount: "Glory Pass Premium",
+            prices: "Rp.126.079",
+          },
+        ],
+      },
 ]
 
 module.exports = Trending;
