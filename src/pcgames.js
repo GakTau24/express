@@ -9,7 +9,7 @@ const Pc = [
             prices: "Rp.9.623"
           },
           { 
-            amount: "1400 Cash",
+            amount: "2400 Cash",
             prices: "Rp.19.245"
           },
           { 
