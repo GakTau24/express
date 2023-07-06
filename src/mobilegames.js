@@ -4,86 +4,86 @@ const Mobile = [
     title: "Mobile Legends: A",
     img: "https://play-lh.googleusercontent.com/49I7uP9_YrOtSlZFTo3rr4B3ZyTnVjDcI3RmRR0sm3BO8R8dg-bxQZvPzirTuLyOeNs",
     price: [
-      // {
-      //   amount: "💎86",
-      //   prices: "Rp.19.520",
-      // },
-      // {
-      //   amount: "💎172",
-      //   prices: "Rp.38.735",
-      // },
-      // {
-      //   amount: "💎257",
-      //   prices: "Rp.58.255",
-      // },
-      // {
-      //   amount: "💎344",
-      //   prices: "Rp.77.470",
-      // },
-      // {
-      //   amount: "💎429",
-      //   prices: "Rp.96.990",
-      // },
-      // {
-      //   amount: "💎514",
-      //   prices: "Rp.116.510",
-      // },
-      // {
-      //   amount: "💎600",
-      //   prices: "Rp.136.030",
-      // },
-      // {
-      //   amount: "💎706",
-      //   prices: "Rp.155.550",
-      // },
-      // {
-      //   amount: "💎878",
-      //   prices: "Rp.194.285",
-      // },
-      // {
-      //   amount: "💎963",
-      //   prices: "Rp.213.805",
-      // },
-      // {
-      //   amount: "💎1050",
-      //   prices: "Rp.233.020",
-      // },
-      // {
-      //   amount: "💎1220",
-      //   prices: "Rp.272.060",
-      // },
-      // {
-      //   amount: "💎1412",
-      //   prices: "Rp.311.100",
-      // },
-      // {
-      //   amount: "💎2195",
-      //   prices: "Rp.467.260",
-      // },
-      // {
-      //   amount: "💎3073",
-      //   prices: "Rp.651.545",
-      // },
-      // {
-      //   amount: "💎3688",
-      //   prices: "Rp.769.580",
-      // },
-      // {
-      //   amount: "💎4032",
-      //   prices: "Rp.843.980",
-      // },
-      // {
-      //   amount: "💎5532",
-      //   prices: "Rp.769.580",
-      // },
-      // {
-      //   amount: "💎6238",
-      //   prices: "Rp.1.293.378",
-      // },
-      // {
-      //   amount: "💎9288",
-      //   prices: "Rp.1.889.340",
-      // },
+      {
+        amount: "💎86",
+        prices: "Rp.19.520",
+      },
+      {
+        amount: "💎172",
+        prices: "Rp.38.735",
+      },
+      {
+        amount: "💎257",
+        prices: "Rp.58.255",
+      },
+      {
+        amount: "💎344",
+        prices: "Rp.77.470",
+      },
+      {
+        amount: "💎429",
+        prices: "Rp.96.990",
+      },
+      {
+        amount: "💎514",
+        prices: "Rp.116.510",
+      },
+      {
+        amount: "💎600",
+        prices: "Rp.136.030",
+      },
+      {
+        amount: "💎706",
+        prices: "Rp.155.550",
+      },
+      {
+        amount: "💎878",
+        prices: "Rp.194.285",
+      },
+      {
+        amount: "💎963",
+        prices: "Rp.213.805",
+      },
+      {
+        amount: "💎1050",
+        prices: "Rp.233.020",
+      },
+      {
+        amount: "💎1220",
+        prices: "Rp.272.060",
+      },
+      {
+        amount: "💎1412",
+        prices: "Rp.311.100",
+      },
+      {
+        amount: "💎2195",
+        prices: "Rp.467.260",
+      },
+      {
+        amount: "💎3073",
+        prices: "Rp.651.545",
+      },
+      {
+        amount: "💎3688",
+        prices: "Rp.769.580",
+      },
+      {
+        amount: "💎4032",
+        prices: "Rp.843.980",
+      },
+      {
+        amount: "💎5532",
+        prices: "Rp.769.580",
+      },
+      {
+        amount: "💎6238",
+        prices: "Rp.1.293.378",
+      },
+      {
+        amount: "💎9288",
+        prices: "Rp.1.889.340",
+      },
       {
         amount: "Coming",
         prices: "Soon",
@@ -202,57 +202,61 @@ const Mobile = [
     title: "Zepeto Global",
     img: "https://play-lh.googleusercontent.com/jMtHecKZIxAomjynUXHjxj4QXrtRn7aoSLiFOzawZ8-UEZvOf-J77fulOohHMoZlDpTI",
     price: [
+      // {
+      //   amount: "💎7",
+      //   prices: "Rp.6.975",
+      // },
+      // {
+      //   amount: "💎14",
+      //   prices: "Rp.13.550",
+      // },
+      // {
+      //   amount: "💎29",
+      //   prices: "Rp.27.100",
+      // },
+      // {
+      //   amount: "💎60",
+      //   prices: "Rp.54.200",
+      // },
+      // {
+      //   amount: "💎125",
+      //   prices: "Rp.106.400",
+      // },
+      // {
+      //   amount: "💎196",
+      //   prices: "Rp.166.430",
+      // },
+      // {
+      //   amount: "💎770",
+      //   prices: "Rp.605.300",
+      // },
+      // {
+      //   amount: "4680 Coins",
+      //   prices: "Rp.13.550",
+      // },
+      // {
+      //   amount: "10200 Coins",
+      //   prices: "Rp.27.100",
+      // },
+      // {
+      //   amount: "21000 Coins",
+      //   prices: "Rp.54.200",
+      // },
+      // {
+      //   amount: "38900 Coins",
+      //   prices: "Rp.96.700",
+      // },
+      // {
+      //   amount: "62800 Coins",
+      //   prices: "Rp.157.730",
+      // },
+      // {
+      //   amount: "234000 Coins",
+      //   prices: "Rp.605.300",
+      // },
       {
-        amount: "💎7",
-        prices: "Rp.6.975",
-      },
-      {
-        amount: "💎14",
-        prices: "Rp.13.550",
-      },
-      {
-        amount: "💎29",
-        prices: "Rp.27.100",
-      },
-      {
-        amount: "💎60",
-        prices: "Rp.54.200",
-      },
-      {
-        amount: "💎125",
-        prices: "Rp.106.400",
-      },
-      {
-        amount: "💎196",
-        prices: "Rp.166.430",
-      },
-      {
-        amount: "💎770",
-        prices: "Rp.605.300",
-      },
-      {
-        amount: "4680 Coins",
-        prices: "Rp.13.550",
-      },
-      {
-        amount: "10200 Coins",
-        prices: "Rp.27.100",
-      },
-      {
-        amount: "21000 Coins",
-        prices: "Rp.54.200",
-      },
-      {
-        amount: "38900 Coins",
-        prices: "Rp.96.700",
-      },
-      {
-        amount: "62800 Coins",
-        prices: "Rp.157.730",
-      },
-      {
-        amount: "234000 Coins",
-        prices: "Rp.605.300",
+        amount: "Coming",
+        prices: "Soon",
       },
     ],
   },
