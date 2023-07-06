@@ -91,58 +91,62 @@ const Trending = [
         title: "Zepeto Global",
         img: "https://play-lh.googleusercontent.com/jMtHecKZIxAomjynUXHjxj4QXrtRn7aoSLiFOzawZ8-UEZvOf-J77fulOohHMoZlDpTI",
         price: [
-          {
-            amount: "💎7",
-            prices: "Rp.6.975"
-          },
-          {
-            amount: "💎14",
-            prices: "Rp.13.550"
-          },
-          {
-            amount: "💎29",
-            prices: "Rp.27.100"
-          },
-          {
-            amount: "💎60",
-            prices: "Rp.54.200"
-          },
-          {
-            amount: "💎125",
-            prices: "Rp.106.400"
-          },
-          {
-            amount: "💎196",
-            prices: "Rp.166.430"
-          },
-          {
-            amount: "💎770",
-            prices: "Rp.605.300"
-          },
-          {
-            amount: "4680 Coins",
-            prices: "Rp.13.550"
-          },
-          {
-            amount: "10200 Coins",
-            prices: "Rp.27.100"
-          },
-          {
-            amount: "21000 Coins",
-            prices: "Rp.54.200"
-          },
-          {
-            amount: "38900 Coins",
-            prices: "Rp.96.700"
-          },
-          {
-            amount: "62800 Coins",
-            prices: "Rp.157.730"
-          },
-          {
-            amount: "234000 Coins",
-            prices: "Rp.605.300"
-          },
+          // {
+          //   amount: "💎7",
+          //   prices: "Rp.6.975"
+          // },
+          // {
+          //   amount: "💎14",
+          //   prices: "Rp.13.550"
+          // },
+          // {
+          //   amount: "💎29",
+          //   prices: "Rp.27.100"
+          // },
+          // {
+          //   amount: "💎60",
+          //   prices: "Rp.54.200"
+          // },
+          // {
+          //   amount: "💎125",
+          //   prices: "Rp.106.400"
+          // },
+          // {
+          //   amount: "💎196",
+          //   prices: "Rp.166.430"
+          // },
+          // {
+          //   amount: "💎770",
+          //   prices: "Rp.605.300"
+          // },
+          // {
+          //   amount: "4680 Coins",
+          //   prices: "Rp.13.550"
+          // },
+          // {
+          //   amount: "10200 Coins",
+          //   prices: "Rp.27.100"
+          // },
+          // {
+          //   amount: "21000 Coins",
+          //   prices: "Rp.54.200"
+          // },
+          // {
+          //   amount: "38900 Coins",
+          //   prices: "Rp.96.700"
+          // },
+          // {
+          //   amount: "62800 Coins",
+          //   prices: "Rp.157.730"
+          // },
+          // {
+          //   amount: "234000 Coins",
+          //   prices: "Rp.605.300"
+          // },
+            {
+                amount: "Coming",
+                prices: "Soon",
+            },
         ]
       },
       {
