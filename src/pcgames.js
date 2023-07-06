@@ -37,7 +37,7 @@ const Pc = [
       {
         slug: "valorant",
         title: "Valorant",
-        img: "https://yt3.googleusercontent.com/LV3BNWAe5ZCyX5rPwOVG2-b8InuAHNwIbOOe3ERJTSz2yXoCr_3OARIFoSYqe40_rR5ni779=s900-c-k-c0x00ffffff-no-rj",
+        img: "https://yt3.googleusercontent.com/gZgTKCkN1xzuptxdi2zAfJYZ7ZUdW8TObdoRtopiZ5QxIWCVXoCAgjUOyIiS66RvzMyOOtbO=s900-c-k-c0x00ffffff-no-rj",
         price: [
           { 
             amount: "125 Points",
