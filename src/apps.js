@@ -63,6 +63,17 @@ const Apps = [
           },
         ]
       },
+    {
+        slug: "wetv",
+        title: "WeTV",
+        img: "https://play-lh.googleusercontent.com/vFuCGlyq6GepK_69Bbp2FKrKhmgrZdAWr8LfpFLNw2HgvZyq54HKEzdjCBf2HAk_TlVH",
+        price: [
+          { 
+            amount: "Coming",
+            prices: "Soon"
+          },
+        ]
+      },
 ]
 
 module.exports = Apps;
