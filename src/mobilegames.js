@@ -4,86 +4,90 @@ const Mobile = [
     title: "Mobile Legends: A",
     img: "https://play-lh.googleusercontent.com/49I7uP9_YrOtSlZFTo3rr4B3ZyTnVjDcI3RmRR0sm3BO8R8dg-bxQZvPzirTuLyOeNs",
     price: [
+      // {
+      //   amount: "💎86",
+      //   prices: "Rp.19.520",
+      // },
+      // {
+      //   amount: "💎172",
+      //   prices: "Rp.38.735",
+      // },
+      // {
+      //   amount: "💎257",
+      //   prices: "Rp.58.255",
+      // },
+      // {
+      //   amount: "💎344",
+      //   prices: "Rp.77.470",
+      // },
+      // {
+      //   amount: "💎429",
+      //   prices: "Rp.96.990",
+      // },
+      // {
+      //   amount: "💎514",
+      //   prices: "Rp.116.510",
+      // },
+      // {
+      //   amount: "💎600",
+      //   prices: "Rp.136.030",
+      // },
+      // {
+      //   amount: "💎706",
+      //   prices: "Rp.155.550",
+      // },
+      // {
+      //   amount: "💎878",
+      //   prices: "Rp.194.285",
+      // },
+      // {
+      //   amount: "💎963",
+      //   prices: "Rp.213.805",
+      // },
+      // {
+      //   amount: "💎1050",
+      //   prices: "Rp.233.020",
+      // },
+      // {
+      //   amount: "💎1220",
+      //   prices: "Rp.272.060",
+      // },
+      // {
+      //   amount: "💎1412",
+      //   prices: "Rp.311.100",
+      // },
+      // {
+      //   amount: "💎2195",
+      //   prices: "Rp.467.260",
+      // },
+      // {
+      //   amount: "💎3073",
+      //   prices: "Rp.651.545",
+      // },
+      // {
+      //   amount: "💎3688",
+      //   prices: "Rp.769.580",
+      // },
+      // {
+      //   amount: "💎4032",
+      //   prices: "Rp.843.980",
+      // },
+      // {
+      //   amount: "💎5532",
+      //   prices: "Rp.769.580",
+      // },
+      // {
+      //   amount: "💎6238",
+      //   prices: "Rp.1.293.378",
+      // },
+      // {
+      //   amount: "💎9288",
+      //   prices: "Rp.1.889.340",
+      // },
       {
-        amount: "💎86",
-        prices: "Rp.19.520",
-      },
-      {
-        amount: "💎172",
-        prices: "Rp.38.735",
-      },
-      {
-        amount: "💎257",
-        prices: "Rp.58.255",
-      },
-      {
-        amount: "💎344",
-        prices: "Rp.77.470",
-      },
-      {
-        amount: "💎429",
-        prices: "Rp.96.990",
-      },
-      {
-        amount: "💎514",
-        prices: "Rp.116.510",
-      },
-      {
-        amount: "💎600",
-        prices: "Rp.136.030",
-      },
-      {
-        amount: "💎706",
-        prices: "Rp.155.550",
-      },
-      {
-        amount: "💎878",
-        prices: "Rp.194.285",
-      },
-      {
-        amount: "💎963",
-        prices: "Rp.213.805",
-      },
-      {
-        amount: "💎1050",
-        prices: "Rp.233.020",
-      },
-      {
-        amount: "💎1220",
-        prices: "Rp.272.060",
-      },
-      {
-        amount: "💎1412",
-        prices: "Rp.311.100",
-      },
-      {
-        amount: "💎2195",
-        prices: "Rp.467.260",
-      },
-      {
-        amount: "💎3073",
-        prices: "Rp.651.545",
-      },
-      {
-        amount: "💎3688",
-        prices: "Rp.769.580",
-      },
-      {
-        amount: "💎4032",
-        prices: "Rp.843.980",
-      },
-      {
-        amount: "💎5532",
-        prices: "Rp.769.580",
-      },
-      {
-        amount: "💎6238",
-        prices: "Rp.1.293.378",
-      },
-      {
-        amount: "💎9288",
-        prices: "Rp.1.889.340",
-      },
+        amount: "Coming",
+        prices: "Soon",
+      }
     ],
   },
   {
