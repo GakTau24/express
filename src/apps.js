@@ -41,7 +41,7 @@ const Apps = [
         ]
       },
     {
-        slug: "Canva Pro",
+        slug: "Canva-Pro",
         title: "Canva Pro",
         img: "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
         price: [
@@ -61,6 +61,18 @@ const Apps = [
             amount: "Pro Desainer 1 Tahun [Garansi 12 Bulan]",
             prices: "Rp.30.000"
           },
+        ]
+      },
+    
+    {
+        slug: "Wetv",
+        title: "WeTV",
+        img: "https://play-lh.googleusercontent.com/vFuCGlyq6GepK_69Bbp2FKrKhmgrZdAWr8LfpFLNw2HgvZyq54HKEzdjCBf2HAk_TlVH",
+        price: [
+            {
+                amount: "Coming",
+                prices" "Soon",
+            }
         ]
       }
 ]
