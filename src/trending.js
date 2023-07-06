@@ -346,7 +346,7 @@ const Trending = [
      {
         slug: "garena-undawn",
         title: "Garena Undawn",
-        img: "https://play-lh.googleusercontent.com/O8ytbnt15txmXtTrOfqoEYPsDTrQPqlYqa0ylwIU8Atny4fBBZumKl4PSPBTVWMD4g=w526-h296-rw",
+        img: "https://play-lh.googleusercontent.com/CED_RfFmarZ82aT0AAJzIw1e7v54ZxjBksdpzDpwiGCa7UQj7IVgFtGoxTBFvXwh4No",
         price: [
           {
             amount: "80 RC",
