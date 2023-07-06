@@ -342,7 +342,7 @@ const Trending = [
      {
         slug: "garena-undawn",
         title: "Garena Undawn",
-        img: "https://akcdn.detik.net.id/community/media/visual/2021/04/05/garena-akan-merilis-undawn-game-open-world-survival-shooter-untuk-pemain-di-asia-tenggara-dan-sekitarnya-2_43.jpeg?w=250&q=",
+        img: "https://play-lh.googleusercontent.com/O8ytbnt15txmXtTrOfqoEYPsDTrQPqlYqa0ylwIU8Atny4fBBZumKl4PSPBTVWMD4g=w526-h296-rw",
         price: [
           {
             amount: "80 RC",
