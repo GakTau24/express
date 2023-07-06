@@ -72,7 +72,7 @@ const Apps = [
             {
                 amount: "Coming",
                 prices" "Soon",
-            }
+            },
         ]
       }
 ]
