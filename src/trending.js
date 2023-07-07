@@ -396,6 +396,10 @@ const Trending = [
             amount: "Glory Pass Premium",
             prices: "Rp.126.079",
           },
+          {
+            amount: "Note",
+            prices: "Only Non-bind Garena, Untuk transaksi Garena Undawn tidak bisa memproses ID yang login via Garena. Terima kasih atas perhatiaannya!",
+          },
         ],
       },
 ]
