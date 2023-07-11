@@ -548,14 +548,10 @@ const Mobile = [
       },
       {
         amount: "Noted",
-        prices: "• Proses 60 - 120 menit, Sesuai antrian",
-      },
-      {
-        prices: "• Bebas Req Hero WR/NON WR",
-      },
-      {
+        prices: "Proses 60 - 120 menit Sesuai antrian,",
+        prices: "• Bebas Req Hero WR/NON WR,",
         prices: "• Apabila akun di Tabrak = Hangus dan Tidak dapat di Refund",
-      }
+      },
     ],
   },
 ];
