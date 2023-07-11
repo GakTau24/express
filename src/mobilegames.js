@@ -485,6 +485,74 @@ const Mobile = [
       },
     ],
   },
+  {
+    slug: "mobile-legends-via-login",
+    title: "Mobile Legends: A",
+    img: "https://play-lh.googleusercontent.com/49I7uP9_YrOtSlZFTo3rr4B3ZyTnVjDcI3RmRR0sm3BO8R8dg-bxQZvPzirTuLyOeNs",
+    price: [
+      {
+        amount: "💎275",
+        prices: "Rp.58.000",
+      },
+      {
+        amount: "💎565",
+        prices: "Rp.97.000",
+      },
+      {
+        amount: "💎840",
+        prices: "Rp.135.000",
+      },
+      {
+        amount: "💎344",
+        prices: "Rp.77.470",
+      },
+      {
+        amount: "💎1155",
+        prices: "Rp.180.000",
+      },
+      {
+        amount: "💎1430",
+        prices: "Rp.235.000",
+      },
+      {
+        amount: "💎1765",
+        prices: "Rp.270.000",
+      },
+      {
+        amount: "💎2975",
+        prices: "Rp.430.000",
+      },
+      {
+        amount: "💎6000",
+        prices: "Rp.780.000",
+      },
+      {
+        amount: "💎7155",
+        prices: "Rp.957.000",
+      },
+      {
+        amount: "💎1050",
+        prices: "Rp.233.020",
+      },
+      {
+        amount: "💎8920",
+        prices: "Rp.1.205.000",
+      },
+      {
+        amount: "💎12000",
+        prices: "Rp.1.480.000",
+      },
+      {
+        amount: "💎2195",
+        prices: "Rp.467.260",
+      },
+      {
+        amount: "Noted",
+        prices: "Proses 60 - 120 menit, Sesuai antrian",
+        
+      }
+    ],
+  },
 ];
 
 module.exports = Mobile;
