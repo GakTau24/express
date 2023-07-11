@@ -487,7 +487,7 @@ const Mobile = [
   },
   {
     slug: "mobile-legends-via-login",
-    title: "Mobile Legends: A",
+    title: "Mobile Legends: Via Login",
     img: "https://play-lh.googleusercontent.com/49I7uP9_YrOtSlZFTo3rr4B3ZyTnVjDcI3RmRR0sm3BO8R8dg-bxQZvPzirTuLyOeNs",
     price: [
       {
@@ -548,8 +548,9 @@ const Mobile = [
       },
       {
         amount: "Noted",
-        prices: "Proses 60 - 120 menit, Sesuai antrian",
-        
+        prices: "• Proses 60 - 120 menit, Sesuai antrian",
+        prices: "• Bebas Req Hero WR/NON WR",
+        prices: "• Apabila akun di Tabrak = Hangus dan Tidak dapat di Refund",
       }
     ],
   },
