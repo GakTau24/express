@@ -527,10 +527,6 @@ const Mobile = [
         prices: "Rp.957.000",
       },
       {
-        amount: "💎1050",
-        prices: "Rp.233.020",
-      },
-      {
         amount: "💎8920",
         prices: "Rp.1.205.000",
       },
